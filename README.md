@@ -7,7 +7,7 @@ and being able to rerecruit them, but turns out i was more fun to
 
 be able to recruit any NPC in the game
 
-##To DO
+## To DO
 
 ADD "PLAYABLE" Tag to recuited character so they'll be resurrectable
 
