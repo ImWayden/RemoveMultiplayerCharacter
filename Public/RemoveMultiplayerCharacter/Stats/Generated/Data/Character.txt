@@ -1,0 +1,12 @@
+new entry "WAY_CloneMale"
+type "Character"
+using "_Hero"
+data "Weight" "65"
+data "StepsType" "Bare"
+
+
+new entry "WAY_CloneFemale"
+type "Character"
+using "_Hero"
+data "Weight" "65"
+data "StepsType" "Bare"

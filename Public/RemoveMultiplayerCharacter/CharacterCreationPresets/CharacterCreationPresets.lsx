@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="47"/>
+    <region id="CharacterCreationPresets">
+        <node id="root">
+            <children>
+				<!-- Skeleton -->
+				<node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="CloseUpA" type="LSString" value="HUM_F_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="31eb134c-5a68-4ed8-b944-e610b19d9c7d"/> <!-- same custom in race.lsx points to race in wich is used the preset-->
+					<attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> <!-- same custom in race.lsx-->
+                    <attribute id="RootTemplate" type="guid" value="75f24b3f-0b25-4eae-bcc7-7337075ffe20"/> <!--created root templateid probably point to template to apply-->
+                    <attribute id="UUID" type="guid" value="20c1f949-6b59-4076-acd7-5df727e945b2"/> <!-- Custom Id of this preset  -->
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--not custom-->
+                </node>
+                <node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="CloseUpA" type="LSString" value="HUM_F_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HUM_F_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HUM_F_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="31eb134c-5a68-4ed8-b944-e610b19d9c7d"/> <!-- same custom in race.lsx points to race in wich is used the preset-->
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> <!-- same custom in race.lsx-->
+                    <attribute id="RootTemplate" type="guid" value="75f24b3f-0b25-4eae-bcc7-7337075ffe20"/> <!--created root templateid probably point to template to apply-->
+                    <attribute id="UUID" type="guid" value="35924130-44e3-41a4-a30f-c9b9967e9790"/> <!-- Custom Id of this preset  -->
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!--not custom-->
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

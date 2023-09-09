@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Races">
+        <node id="root">
+            <children>
+                <node id="Race">
+                    <attribute id="Description" type="TranslatedString" handle="h6c467c70g2d61g40b0gbd98g2c4ae257c0bc"/> <!-- .loca file -->
+                    <attribute id="DisplayName" type="TranslatedString" handle="h66b1f345g003dg4375gb57bgc7941ebd692b"/> <!-- .loca file -->
+                    <attribute id="Name" type="FixedString" value="Clone"/> <!-- It's Custom -->
+                    <!--<attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>  ID of parent race To make subrace uses ID of Not t generic race-->
+                    <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/> <!-- it's not custom it's undead race could be able to be custom  -->
+                    <attribute id="ProgressionTableUUID" type="guid" value="b25032b5-f814-47bf-9eff-b6e5c65c5a65"/> <!-- it's custom and it's related to Prgression/Progression.lsx-->
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Human"/> <!-- race sound -->
+                    <attribute id="UUID" type="guid" value="31eb134c-5a68-4ed8-b944-e610b19d9c7d"/> <!--custom-->
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="b42a97b3-7264-4d98-b419-1405f8c9ed32"/>
+                        </node>
+                    </children>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>

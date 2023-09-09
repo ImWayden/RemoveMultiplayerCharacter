@@ -1,0 +1,1887 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="02170afd-90be-49bc-8193-c52769ee92ed" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave02_03_Ranged" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="146.9283 0 -0.2549114" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9803397 0 -0.1973172" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="DefaultMonster" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="CombatGroupID" type="FixedString" value="875a4afb-dec6-df1d-9ba7-c6514e099710" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="0ad72372-8a41-421f-b0cf-30e98bbc6bf3" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Stationary_Ranged_01" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209031" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-46.20078 37.28314 49.96753" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9951971 0 -0.09789149" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="0cdba699-112a-427d-85c9-81c809250e48" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave04_05_Ranged" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209027" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="153.0789 0 -3.857897" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9932981 0 0.1155812" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="ha8cf4b3cg3430g42ebgbe9age663aad0592b" version="1" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="0f0f7c6c-3f02-4fbf-901d-bf8ad41078ac" />
+					<attribute id="Name" type="LSString" value="S_IRN_Spectator" />
+					<attribute id="TemplateName" type="FixedString" value="319efbbe-f9f3-4584-804e-3e17d47d1136" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="142.3093 0 26.25865" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="Patroller" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="17e0e960-3bbe-4f51-9610-705361eea133" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Patroller_Ranged_03" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="ScriptConfigGlobalParameters">
+							<children>
+								<node id="ScriptConfigParameter">
+									<attribute id="Name" type="LSString" value="patrolSpline" />
+									<children>
+										<node id="Value">
+											<children>
+												<node id="Scalar">
+													<children>
+														<node id="Scalar">
+															<children>
+																<node id="String">
+																	<attribute id="String" type="LSString" value="S_IRN_PatrolSpline05_9d19e47e-2f3b-47e2-8526-48f642889d03" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="30.90058 39.34662 64.53551" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="83ea7cbf-08ba-bec9-dd4b-64d3f6d3c1fb-_(Icon_Spider_Critter)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="1c7bf8bb-259a-4673-9f7e-f0244ddaaf8a" />
+					<attribute id="Name" type="LSString" value="S_IRN_Mizora_Spiderling2" />
+					<attribute id="TemplateName" type="FixedString" value="0b9f573c-6761-4630-9adf-53ac2bf93e88" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="54ef9e71-aa13-061a-f260-5fde0350a703" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="6d60bed7-10cc-4b52-b78f-a7ba815149cd" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="31.64565 39.37292 59.27529" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.8039961 0 0.5946347" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="42a8e6be-a767-9ef8-0d11-bab7d1632675" />
+					<attribute id="DefaultState" type="uint8" value="11" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="42a8e6be-a767-9ef8-0d11-bab7d1632675-_(Icon_Gnomes_Female)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="21b46583-8a5d-4f2d-8ea9-f8203da0ab57" />
+					<attribute id="Name" type="LSString" value="S_IRN_DeadHostage02" />
+					<attribute id="TemplateName" type="FixedString" value="308574bb-5a2e-4395-b9df-75c9f4645ae6" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="40.50058 39.38089 67.05625" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.5523881 0 0.8335872" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="DefaultMonster" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="CombatGroupID" type="FixedString" value="555cbd29-28f1-e290-bfc0-3417b9e06dc5" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="7" />
+					<attribute id="MapKey" type="FixedString" value="28820688-22e3-4057-8a58-0089e67dec62" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Stationary_Melee_01" />
+					<attribute id="TemplateName" type="FixedString" value="1adca348-7066-4a79-96ec-d7264e6ba546" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="2.204287 37.37611 96.66573" />
+							<attribute id="RotationQuat" type="fvec4" value="0 -0.7650332 0 0.6439908" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="83ea7cbf-08ba-bec9-dd4b-64d3f6d3c1fb-_(Icon_Spider_Critter)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="30ee9356-ab30-4476-b02b-9d190089f12a" />
+					<attribute id="Name" type="LSString" value="S_IRN_Mizora_Spiderling5" />
+					<attribute id="SwarmGroup" type="FixedString" value="LOW_IronThrone_Mizora_Spiderlings_SwarmGroup_03" />
+					<attribute id="TemplateName" type="FixedString" value="0b9f573c-6761-4630-9adf-53ac2bf93e88" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="54ef9e71-aa13-061a-f260-5fde0350a703" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="30.56999 39.36888 57.77196" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9741666 0 0.2258307" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="83ea7cbf-08ba-bec9-dd4b-64d3f6d3c1fb-_(Icon_Spider_Critter)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="3b58232b-7e00-403c-a435-e0b168928407" />
+					<attribute id="Name" type="LSString" value="S_IRN_Mizora_Spiderling1" />
+					<attribute id="TemplateName" type="FixedString" value="0b9f573c-6761-4630-9adf-53ac2bf93e88" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="54ef9e71-aa13-061a-f260-5fde0350a703" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="6d60bed7-10cc-4b52-b78f-a7ba815149cd" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="31.88822 39.39011 60.80835" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.6176082 0 0.7864859" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="43a81ca4-c9d0-4b9b-8bc8-081965c3c732" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave02_01" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_01" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208704" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="154.4379 0 2.385891" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.8692399 0 0.4943906" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="45559dc7-72ef-4990-b3f8-852df6b0a157" />
+					<attribute id="Name" type="LSString" value="S_IRN_Mizora_Spiderling6" />
+					<attribute id="SwarmGroup" type="FixedString" value="LOW_IronThrone_Mizora_Spiderlings_SwarmGroup_03" />
+					<attribute id="TemplateName" type="FixedString" value="0b9f573c-6761-4630-9adf-53ac2bf93e88" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="54ef9e71-aa13-061a-f260-5fde0350a703" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="28.96816 39.41365 56.97097" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.1109095 0 0.9938305" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="50a3be42-96e3-4300-920c-f709f1eec24c" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave03_02_Ranged" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="150.3293 0 2.68519" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9803397 0 -0.1973172" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="cf3bb0d4-11b9-9de4-cad3-2891c457febd-_(Icon_Sahuagin)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="61f3fce2-6585-4c9e-8220-6dbafe563ecb" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave04_03" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_02" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="146.6353 0 1.291374" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9858942 0 -0.1673699" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="68f4635f-40d3-4135-8519-4c62dadd26ef" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_EscapingHostageGuard" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-16.05603 39.40158 58.64719" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.3651144 0 0.9309627" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="Patroller" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="6c99f33c-8c74-4ab4-929e-b06b1641e613" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Patroller_Ranged_02" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="ScriptConfigGlobalParameters">
+							<children>
+								<node id="ScriptConfigParameter">
+									<attribute id="Name" type="LSString" value="patrolSpline" />
+									<children>
+										<node id="Value">
+											<children>
+												<node id="Scalar">
+													<children>
+														<node id="Scalar">
+															<children>
+																<node id="String">
+																	<attribute id="String" type="LSString" value="S_IRN_PatrolSpline03_a5f7e262-b762-470f-93b0-7e55980032f5" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-41.1121 37.3805 92.44661" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.7071069 0 0.7071066" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="Patroller" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="7" />
+					<attribute id="MapKey" type="FixedString" value="7987b367-c378-446b-bffa-69f1bd5d8ebf" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Patroller_Melee_03" />
+					<attribute id="TemplateName" type="FixedString" value="1adca348-7066-4a79-96ec-d7264e6ba546" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="ScriptConfigGlobalParameters">
+							<children>
+								<node id="ScriptConfigParameter">
+									<attribute id="Name" type="LSString" value="patrolSpline" />
+									<children>
+										<node id="Value">
+											<children>
+												<node id="Scalar">
+													<children>
+														<node id="Scalar">
+															<children>
+																<node id="String">
+																	<attribute id="String" type="LSString" value="S_IRN_PatrolSpline04_103b3a4d-37b5-40ca-b97b-4c448eca9f53" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="23.27869 39.3263 60.15188" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="7b95b406-ddaa-4cab-94b7-057cbb6d0fbc" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave04_01" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_02" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208704" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="153.8027 0 3.520351" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9805166 0 0.1964363" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="Patroller" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="CombatGroupID" type="FixedString" value="875a4afb-dec6-df1d-9ba7-c6514e099710" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="86c3e221-01a8-4c0b-8898-cd519843c8f9" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Patroller_Ranged_04" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="ScriptConfigGlobalParameters">
+							<children>
+								<node id="ScriptConfigParameter">
+									<attribute id="Name" type="LSString" value="patrolSpline" />
+									<children>
+										<node id="Value">
+											<children>
+												<node id="Scalar">
+													<children>
+														<node id="Scalar">
+															<children>
+																<node id="String">
+																	<attribute id="String" type="LSString" value="S_IRN_PatrolSpline01_33fd6abc-d96c-4610-9564-3ebb32477b12" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-39.79484 37.28314 60.46472" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.8676193 0 -0.497229" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="83ea7cbf-08ba-bec9-dd4b-64d3f6d3c1fb-_(Icon_Spider_Critter)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="896ff47b-6b47-4eb8-adb2-e668eb604162" />
+					<attribute id="Name" type="LSString" value="S_IRN_Mizora_Spiderling4" />
+					<attribute id="SwarmGroup" type="FixedString" value="LOW_IronThrone_Mizora_Spiderlings_SwarmGroup_02" />
+					<attribute id="TemplateName" type="FixedString" value="0b9f573c-6761-4630-9adf-53ac2bf93e88" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="54ef9e71-aa13-061a-f260-5fde0350a703" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="29.2572 39.41058 62.26695" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.06793936 0 0.9976895" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="90416aba-3810-4ab3-b5a3-2b68c7aebcc6" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave03_01" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_02" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208704" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="150.0019 0 -0.2549114" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9803397 0 -0.1973173" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="cf3bb0d4-11b9-9de4-cad3-2891c457febd-_(Icon_Sahuagin)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="919838ea-f224-491d-99b0-4b7a8b17f8a5" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave01_02" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_01" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="151.8976 0 -1.119896" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9697063 0 0.244274" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DefaultState" type="uint8" value="8" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4db5f4fcg2e9ag42f4ga713g3a954a8fa59e" version="1" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="9763e700-abc9-4658-b5d5-23d122e0f650" />
+					<attribute id="Name" type="LSString" value="S_IRN_EnvironmentalStorytelling_DeadBaneite" />
+					<attribute id="TemplateName" type="FixedString" value="fe6b8a33-c51b-4751-a49b-663b27387601" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209031" />
+					<children>
+						<node id="ItemList">
+							<children>
+								<node id="Item">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="Amount" type="int32" value="1" />
+									<attribute id="CanBePickpocketed" type="bool" value="True" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="IsDroppedOnDeath" type="bool" value="True" />
+									<attribute id="IsTradable" type="uint8" value="0" />
+									<attribute id="ItemName" type="LSString" value="S_IRN_EnvironmentalLoot_MissiveToPrinski" />
+									<attribute id="LevelName" type="LSString" value="IRN_Main_A" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="TemplateID" type="FixedString" value="535c2472-aafb-4e46-b976-6864c3a8349f" />
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="UUID" type="FixedString" value="ac7d4766-8cd3-4987-b340-d5522fbde25c" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="2e1acea8-f3d9-9580-3bf1-4d72cb5dc070" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-13.56449 37.39192 99.01254" />
+							<attribute id="RotationQuat" type="fvec4" value="0 -0.08101231 0 -0.9967138" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="CombatGroupID" type="FixedString" value="555cbd29-28f1-e290-bfc0-3417b9e06dc5" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="7" />
+					<attribute id="MapKey" type="FixedString" value="9fac5572-f9ea-44a4-abaf-7d5fffdd6378" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Stationary_Melee_02" />
+					<attribute id="TemplateName" type="FixedString" value="1adca348-7066-4a79-96ec-d7264e6ba546" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-7.941811 37.60609 96.98518" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9998695 0 0.01615687" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="a7557f4a-e73d-4ffc-ba48-2c7184c577a3" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave04_02" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_02" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208704" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="151.6745 0 0.4449463" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9982973 0 0.05833102" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="19bbbaf1-1b80-ab6f-fa5c-e915046f134b" />
+					<attribute id="DefaultState" type="uint8" value="11" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="19bbbaf1-1b80-ab6f-fa5c-e915046f134b-_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="b306d6ce-a270-429e-be82-86e7e31bb7dd" />
+					<attribute id="Name" type="LSString" value="S_IRN_DeadHostage01" />
+					<attribute id="TemplateName" type="FixedString" value="3278f064-5353-4c08-ab96-c2f432d0fda0" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="41.52129 39.36494 67.35673" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9375919 0 0.3477377" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="83ea7cbf-08ba-bec9-dd4b-64d3f6d3c1fb-_(Icon_Spider_Critter)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="be2d42a4-6155-4367-b722-8f765752b646" />
+					<attribute id="Name" type="LSString" value="S_IRN_Mizora_Spiderling3" />
+					<attribute id="SwarmGroup" type="FixedString" value="LOW_IronThrone_Mizora_Spiderlings_SwarmGroup_02" />
+					<attribute id="TemplateName" type="FixedString" value="0b9f573c-6761-4630-9adf-53ac2bf93e88" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="54ef9e71-aa13-061a-f260-5fde0350a703" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="30.46637 39.41949 61.68766" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9252977 0 -0.3792418" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="cb0e1f31-c487-40a8-987d-d22d5a8dee31" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave01_01" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_01" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208704" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="148.6791 0 1.27129" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9792238 0 -0.2027826" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="ccbbf867-5d1b-4d40-ac0b-4675edad6173" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave04_04_Ranged" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="148.1607 0 -4.381311" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9858942 0 -0.1673699" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnubisConfigName" type="FixedString" value="Dummy" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="d11015b6-0734-9300-993c-9e5968680128" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h626d8181g86ceg4b7aga3c8g5301cca51e87" version="1" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="d11015b6-0734-9300-993c-9e5968680128-_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="d0a28d11-c7fc-4ab1-9412-9832f52281db" />
+					<attribute id="Name" type="LSString" value="S_IRN_GortashDummy" />
+					<attribute id="TemplateName" type="FixedString" value="2071fae1-d2d2-48bd-aa44-bda0b554ca76" />
+					<attribute id="Title" type="TranslatedString" handle="hd38d7b10ga5c2g43f8g9391gd6a80cd96d43" version="1" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="7d2cc732-b39d-9983-efe3-69399992495a" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="ff89b0b5-00a6-0c7a-a494-8f7584789f42" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="c1f13b4f-baad-34e0-fe9f-ee116f70c53e" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-10.15094 44.8245 67.66088" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="Patroller" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="7" />
+					<attribute id="MapKey" type="FixedString" value="d5190939-376b-4fca-ab06-fadad1fe9725" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Patroller_Melee_01" />
+					<attribute id="TemplateName" type="FixedString" value="1adca348-7066-4a79-96ec-d7264e6ba546" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="ScriptConfigGlobalParameters">
+							<children>
+								<node id="ScriptConfigParameter">
+									<attribute id="Name" type="LSString" value="patrolSpline" />
+									<children>
+										<node id="Value">
+											<children>
+												<node id="Scalar">
+													<children>
+														<node id="Scalar">
+															<children>
+																<node id="String">
+																	<attribute id="String" type="LSString" value="S_IRN_PatrolSpline02_38e9552b-9285-4015-b4ee-b2e5c2cd0435" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-38.49187 37.63945 27.37393" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.7071069 0 0.7071066" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="cf3bb0d4-11b9-9de4-cad3-2891c457febd-_(Icon_Sahuagin)" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="d6ca5ba7-5388-498f-95c5-4e13b09b19d3" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave02_02" />
+					<attribute id="SwarmGroup" type="FixedString" value="IRN_Sahuagin_Swarm_01" />
+					<attribute id="TemplateName" type="FixedString" value="3f66ffc0-8bc9-49cf-a2f8-71ccdea306bd" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="155.1027 0 -1.302883" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9697063 0 0.244274" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="AnubisConfigName" type="FixedString" value="DefaultCharacter" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5d64398cg6642g4051g8908g0c1befd7e26b" version="1" />
+					<attribute id="Faction" type="guid" value="8f848a43-3e4e-403f-71be-8641510bcc27" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="df88c3a5-9ee1-4a23-a7b6-34c07cef8a33" />
+					<attribute id="Name" type="LSString" value="S_IRN_Omeluum" />
+					<attribute id="TemplateName" type="FixedString" value="23ac81c1-597e-41c3-8c3c-6688ca399be1" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725656" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="1e0622a4-b7b6-03c1-21b1-afed57061f32" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="144.9247 0 28.14079" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9638402 0 -0.2664809" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="ActivationGroupId" type="FixedString" value="IRN_Countdown" />
+					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="Faction" type="guid" value="1a0fb59d-a3bb-47cc-0093-15ddb1e58c8b" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="IRN_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="e400207c-27cb-41aa-9788-02a8fb303a3a" />
+					<attribute id="Name" type="LSString" value="S_IRN_Guard_Reinforcements_Wave03_03_Ranged" />
+					<attribute id="TemplateName" type="FixedString" value="809663b3-5df8-49eb-b89b-2aab141a6081" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="IRN_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="98aba2fd-73a7-f8d4-c426-550dd860f527" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="3b1e928e-3305-14fa-0c35-2054e13357bf" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e3249860-4aa9-1c66-5f5a-31a45c0c801e" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="WET" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9787450d-f34d-43bd-88be-bad20bc0eeb8" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="147.298 0 2.994446" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.8920224 0 -0.4519913" />
+							<attribute id="Scale" type="float" value="0.9" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

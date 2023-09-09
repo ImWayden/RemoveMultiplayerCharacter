@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="Rulebook">
+        <node id="root">
+            <children>
+                <node id="Rule">
+                    <attribute id="ApplySpellsFromTemplate" type="bool" value="true"/>
+                    <attribute id="ApplyTagsFromTemplate" type="bool" value="true"/>
+                    <attribute id="ApplyVisual" type="bool" value="true"/>
+                    <attribute id="BlockLevelUp" type="bool" value="false"/>
+                    <attribute id="ChangeBodyType" type="bool" value="true"/>
+                    <attribute id="ChangeIcon" type="bool" value="true"/>
+                    <attribute id="ChangeRace" type="bool" value="true"/>
+                    <attribute id="DisableEquipmentSlots" type="bool" value="false"/>
+                    <attribute id="FootstepsType" type="bool" value="true"/>
+                    <attribute id="IgnoreCustomLooks" type="bool" value="false"/>
+                    <attribute id="RemoveOldTags" type="bool" value="true"/>
+                    <attribute id="RemovePrevSpells" type="bool" value="false"/>
+                    <attribute id="RetainDisplayName" type="bool" value="false"/>
+                    <attribute id="RuleName" type="LSString" value="WAY_Cloned"/>
+                    <attribute id="UUID" type="guid" value="7ef7b2d8-3d4c-48a4-863e-a9df844697c0"/>
+                    <attribute id="UseShapeshiftIdentity" type="bool" value="false"/>
+                    <attribute id="UnarmedAbilityFromTemplate" type="bool" value="true"/>
+                    <children>
+                        <node id="Scale">
+                            <attribute id="type" type="uint8" value="4"/>
+                        </node>
+                        <node id="SpeakingCapabilities">
+                            <children>
+                                <node id="SpeakingCapabilities">
+                                    <attribute id="Name" type="LSString" value="PlayPNC"/>
+                                </node>
+                                <node id="SpeakingCapabilities">
+                                    <attribute id="Name" type="LSString" value="VoiceBark"/>
+                                </node>
+                                <node id="SpeakingCapabilities">
+                                    <attribute id="Name" type="LSString" value="PlayVocals"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

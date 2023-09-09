@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+				<!-- Skeleton -->
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Constitution, 1);ActionResource(Movement,10,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Clone"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/> <!--is it custom-->
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="b25032b5-f814-47bf-9eff-b6e5c65c5a65"/> <!--custom paste in race.lsx progression tableuuid-->
+                    <attribute id="UUID" type="guid" value="ed87b5a2-25a4-448c-aacd-2c163c48a674"/> <!--custom-->
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

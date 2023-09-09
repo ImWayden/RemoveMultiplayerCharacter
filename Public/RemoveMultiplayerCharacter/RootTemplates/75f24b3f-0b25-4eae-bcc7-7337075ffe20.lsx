@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e3a64d1f-fb70-4fcd-a1a2-1a0e2c55bc99" /> <!-- _characterVisual\Merged probably for preset to use i guess ?-->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Armor" /> <!-- not custom-->
+					<attribute id="Icon" type="FixedString" value="97d8eb13-84ae-05b9-808c-95a495a106b4-_(Icon_Armor)" /> <!-- where to find ?-->
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="75f24b3f-0b25-4eae-bcc7-7337075ffe20" /> <!--same as file name -->
+					<attribute id="Name" type="LSString" value="WAY_Clone_Male_Player" /> <!-- where to find ?-->
+					<attribute id="ParentTemplateId" type="FixedString" value="26287685-17a9-443d-ab87-9d00f9fa7b3d" /> <!-- where to find ?-->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="WAY_CloneMale" /> <!-- Value =  Stats/Generated/Data/Character.txt -->
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="b42a97b3-7264-4d98-b419-1405f8c9ed32" />
+								</node>		
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

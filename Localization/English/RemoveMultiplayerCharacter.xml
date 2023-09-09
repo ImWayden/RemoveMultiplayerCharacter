@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <content contentuid="h7fa8cb67g6e94g4a0agb461g8db538fca75a" version="1">Add Or Remove</content>
-  <content contentuid="h94df548ageeecg432dga087g8079151faa3c" version="1">If in party then removes it else add it</content>
+  <content contentuid="h94df548ageeecg432dga087g8079151faa3c" version="1">Add the targeted NPC to the party or Removes the targeted NPC from the party</content>
+  <content contentuid="h6c467c70g2d61g40b0gbd98g2c4ae257c0bc" version="1">The Receptacle of an Higher Beings</content>
+  <content contentuid="h66b1f345g003dg4375gb57bgc7941ebd692b" version="1">Clone</content>
+  <content contentuid="h48d94b84g21beg407dg86dcg23ce1e879e41" version="1">Make Clone or Custom</content>
+  <content contentuid="h8b19d384g739eg4302gbbb6g895872e28d2e" version="1">Clone the Targeted Character, Choose Clone race to clone or any other race to make a custom character</content>
 </contentList>

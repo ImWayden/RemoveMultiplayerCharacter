@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="58" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Clone|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h6c467c70g2d61g40b0gbd98g2c4ae257c0bc" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h66b1f345g003dg4375gb57bgc7941ebd692b" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Clone" />
+			<attribute id="UUID" type="guid" value="b42a97b3-7264-4d98-b419-1405f8c9ed32" />
+			<children>
+				<node id="Categories">
+          <children>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Code" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Dialog" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Race" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="PlayerRace" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="CharacterSheet" />
+            </node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
